@@ -5,7 +5,7 @@
 
 - Renowned mobile company facing huge competion in the exisiting mobile product categories
 - They wanted to conquer the competiton by re catrgorization of the some of the products.
-- As a data scientist we have to analyze Mobile Price basis the Mobile Features so that competitive prodcut can be launched with the Best Price
+- As a data scientist I have to analyze Mobile Price basis the Mobile Features so that competitive prodcut can be launched with the Best Price
 - Objective is to find which features have more impact on mobile price and provide information on it.
 
 >Distribution of the target feature
@@ -26,11 +26,11 @@
 
 ** Conclusion **
 
-- We have analyzed and understood the different features that can influence price of the mobile.
+- I have analyzed and understood the different features that can influence price of the mobile.
 
 - PPI, CPU Core, CPU Freq, Internal Memory, Rear_Cam & Front Cam is an important role in determining the price of the mobile.
 
-- We have also built a predictor to estimate the mobile price based on those influential features.
+- I have also built a predictor to estimate the mobile price based on those influential features.
 
 - The model performs decently as shown by our evaluation metrics.
 
